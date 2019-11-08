@@ -18,5 +18,6 @@ projectAutomation
 
 ## Usage:
   **Upload:** upload <project_name> <commit message>
+  
   **Create:** create <project_name>
   Note: when you run create you will be prompted for your password to github
