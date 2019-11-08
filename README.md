@@ -13,7 +13,8 @@ projectAutomation
 
   4. move upload and create to bin directory
   5. activate update - chmod u+x update
-  6. activate create - chmod u+x update
+  6. activate create - chmod u+x create
+  7. activate open_project - chmod u+x open_project
 
   Now you can run these commands terminal.
 
@@ -23,10 +24,12 @@ projectAutomation
 
   **Create:** create <project_name>
 
+  **Open Project:** open_project <project_name>
+
   Note: when you run create you will be prompted for your password to github
 
 
-  
+
 
 
 This was inspired by https://github.com/KalleHallden/ProjectInitializationAutomation
