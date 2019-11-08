@@ -1,7 +1,7 @@
 projectAutomation
 =================
 
-#Installation:
+##Installation:
 
   1. clone file: git clone https://github.com/masonhorder/projectAutomation.git
   2. change credentials to your username and custom file locations
@@ -16,7 +16,7 @@ projectAutomation
   Now you can run these commands terminal.
 
 
-#Usage:
+##Usage:
   **Upload:** upload <project_name> <commit message>
   **Create:** create <project_name>
   Note: when you run create you will be prompted for your password to github
