@@ -20,11 +20,11 @@ projectAutomation
 
 
 ## Usage:
-  **Update:** update <project name> <message>
+  **Update:** update (project name) (message)
 
-  **Create:** create <project name>
+  **Create:** create (project name)
 
-  **Open Project:** open_project <project name>
+  **Open Project:** open_project (project name)
 
   Note: when you run create you will be prompted for your password to github
 
