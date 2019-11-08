@@ -11,7 +11,7 @@ projectAutomation
     2. mkdir bin
     3. export PATH=$PATH:/Users/masonhorder/bin
 
-  4. move upload and create to bin directory
+  4. move open_project, update and create to bin directory
   5. activate update - chmod u+x update
   6. activate create - chmod u+x create
   7. activate open_project - chmod u+x open_project
@@ -20,7 +20,7 @@ projectAutomation
 
 
 ## Usage:
-  **Upload:** upload <project_name> <commit message>
+  **Update:** update <project_name> <commit message>
 
   **Create:** create <project_name>
 
