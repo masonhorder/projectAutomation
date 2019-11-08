@@ -1,3 +1,1 @@
 # projectAutomation
-# <name>
-# projectAutomation

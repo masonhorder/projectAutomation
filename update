@@ -1,0 +1,14 @@
+#!/bin/bash
+
+repo_name=$1
+
+
+cd ~/Documents/Projects/$repo_name
+
+git init .
+
+git add .
+
+git commit -a -m "$2"
+
+git push -u origin master
